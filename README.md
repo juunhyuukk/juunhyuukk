@@ -6,8 +6,6 @@
 
  🔭 I’m currently working on Backend-Developer
 
- 🌱 I’m currently learning python django
-
  📫 How to reach me: wnsgur5529@naver.com
 
 <br>
