@@ -11,8 +11,6 @@
 <br>
 
 
-
-
 <br>
 
 ![Juunhyuukk's GitHub stats](https://github-readme-stats.vercel.app/api?username=juunhyuukk&show_icons=true&theme=radical)
